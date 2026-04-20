@@ -1,13 +1,5 @@
 # 👋 Hi, I'm Pei-Shan Sun
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=july49576436&show_icons=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=july49576436" height="150"/>
-</p>
-
 ---
 
 🎓 Master's Student in Information Management @ NCKU  
@@ -22,7 +14,15 @@
 - 🔍 Interested in AI, Knowledge Systems, and Intelligent Decision Support
 - ⚙️ Experience in **end-to-end system development (frontend + backend + database)**
 - 📊 Skilled in transforming raw data into actionable insights
-- 💬 Fast learner with strong execution and leadership ability  
+- 💬 Fast learner with strong execution and leadership ability
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=july49576436&show_icons=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=july49576436" height="150"/>
+</p>
 
 👉 Currently building:
 - **Personal RAG System for research knowledge extraction**
