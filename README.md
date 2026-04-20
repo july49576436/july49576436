@@ -1,5 +1,12 @@
 # 👋 Hi, I'm Pei-Shan Sun
 
+![Profile Views](https://komarev.com/ghpvc/?username=july49576436&color=blue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=july49576436&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=july49576436&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=july49576436)
+
+---
+
 🎓 Master's Student in Information Management @ NCKU  
 📊 Vice President @ NCKU Data Analytics Club (NCKU DAC)  
 💡 Focus on AI Systems, Data Analytics, and RAG Applications  
