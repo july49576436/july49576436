@@ -56,7 +56,7 @@ A Retrieval-Augmented Generation (RAG) system that converts academic papers into
 - 🔁 Reproducible and rebuildable pipeline
 
 #### 📊 Highlights
-- Handles 20+ research papers  
+- Handles 90+ research papers  
 - Full pipeline: ingestion → chunking → embedding → retrieval → generation  
 - Converts unstructured academic content into structured knowledge  
 
