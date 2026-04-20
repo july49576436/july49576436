@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Pei-Shan Sun
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=july49576436&show_icons=true" height="150"/>
 </p>
