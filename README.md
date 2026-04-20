@@ -1,8 +1,14 @@
 # 👋 Hi, I'm Pei-Shan Sun
 
-![Profile Views](https://komarev.com/ghpvc/?username=july49576436&color=blue)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=july49576436&show_icons=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=july49576436)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=july49576436&show_icons=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=july49576436" height="150"/>
+</p>
 
 ---
 
