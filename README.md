@@ -17,11 +17,12 @@
 - 💬 Fast learner with strong execution and leadership ability
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=july49576436&show_icons=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=july49576436&show_icons=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=july49576436" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=july49576436" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=july49576436&layout=compact" height="140"/>
 </p>
 
 👉 Currently building:
