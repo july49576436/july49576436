@@ -17,7 +17,7 @@
 - 💬 Fast learner with strong execution and leadership ability
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=july49576436&show_icons=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=july49576436&show_icons=true" height="160"/>&emsp;&emsp;
   <img src="https://streak-stats.demolab.com/?user=july49576436" height="160"/>
 </p>
 
