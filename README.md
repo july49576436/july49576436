@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Pei-Shan Sun
 
----
-
 🎓 Master's Student in Information Management @ NCKU  
 📊 Vice President @ NCKU Data Analytics Club (NCKU DAC)  
 💡 Focus on AI Systems, Data Analytics, and RAG Applications  
