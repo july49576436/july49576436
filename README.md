@@ -77,7 +77,7 @@ A Retrieval-Augmented Generation (RAG) system that converts academic papers into
 
 ### 🏙️ Smart City Dashboard Hackathon
 - Data cleaning, transformation, and integration using Python  
-- Built PostgreSQL database and visualization dashboard (Vue + Mapbox)  
+- Built PostgreSQL database and visualization dashboard (Apexchart + Mapbox)  
 - Converted geo-data into interactive spatial visualization  
 
 ---
