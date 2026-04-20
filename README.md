@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pei-Shan Sun (孫珮珊)
+# 👋 Hi, I'm Pei-Shan Sun
 
 🎓 Master's Student in Information Management @ NCKU  
 📊 Vice President @ NCKU Data Analytics Club (NCKU DAC)  
